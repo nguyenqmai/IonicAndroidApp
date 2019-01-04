@@ -1,5 +1,7 @@
 {
   "name": "IonicAndroidApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
